@@ -1,0 +1,99 @@
+### Maven
+/log/
+/target/
+/log/
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### Gradle
+.gradle
+/build/
+/gradlew
+/gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
+
+### Compiled class file
+*.class
+
+### Log files
+*.log
+
+### Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.db
+
+### Node
+/node/
+node_tmp/
+node_modules/
+npm-debug.log.*
+
+### STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### Eclipse
+*.pydevproject
+.metadata
+tmp/
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+/src/main/resources/rebel.xml
+*.launch
+
+### IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+*.ids
+/out/
+*.orig
+
+### NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Windows
+Thumbs.db
+Desktop.ini
+
+### Mac OSX
+.DS_Store
+.svn
+._*
+.Spotlight-V100
+.Trashes
+
+### Directories
+/bin/
+/deploy/
+
+### Others
+*.class
+*.*~
+*~
+.merge_file*
+
+### ESLint
+.eslintcache
+
